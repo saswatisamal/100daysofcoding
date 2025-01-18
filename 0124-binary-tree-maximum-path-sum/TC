@@ -1,0 +1,5 @@
+Time Complexity:
+The TC = O(N) as each node is visited exactly once.
+SC= O(H)(Recursive Stack Auxiliary Space) where H is the height of the binary tree.
+The recursion stack space is determined by the maximum depth of the recursion, which is the height of the binary tree denoted as H. 
+In worst case the height = O(N) and in balanced BT =O(log2N)
