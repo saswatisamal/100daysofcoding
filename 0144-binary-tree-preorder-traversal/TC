@@ -1,0 +1,6 @@
+Time Complexity: O(N) where N is the number of nodes in the Binary Tree. This is because each node of the Binary Tree is visited once.
+
+Space Complexity: O(N) where N is the number of nodes in the Binary Tree. The inorder hashmap to store the inorder array for fast lookup takes up space proportional to the input nodes. An auxiliary stack space ~ O(H) where H is the height of the Binary Tree is used. This is the stack space used to build the tree recursively. In the case of a skewed tree, the height of the tree will be H ~ N hence the worst case auxiliary space is O(N).
+
+TC: O(N)[No of nodes in BT] + O(N)[ To store the nodes in HashMap]
+SC: O(N)[ To store the nodes in hashmap] + O(H) [An auxiliary stack space ]
