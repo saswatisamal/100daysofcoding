@@ -17,12 +17,14 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saswatisamal/100daysofcoding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saswatisamal/100daysofcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saswatisamal/100daysofcoding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saswatisamal/100daysofcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saswatisamal/100daysofcoding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saswatisamal/100daysofcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0662-maximum-width-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +62,5 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
