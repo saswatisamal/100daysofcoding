@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saswatisamal/100daysofcoding/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -21,6 +22,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saswatisamal/100daysofcoding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saswatisamal/100daysofcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0144-binary-tree-preorder-traversal) |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saswatisamal/100daysofcoding/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -62,5 +65,6 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saswatisamal/100daysofcoding/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
