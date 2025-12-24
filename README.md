@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saswatisamal/100daysofcoding/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/saswatisamal/100daysofcoding/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
@@ -91,8 +92,13 @@
 | [0039-combination-sum](https://github.com/saswatisamal/100daysofcoding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saswatisamal/100daysofcoding/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/saswatisamal/100daysofcoding/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/saswatisamal/100daysofcoding/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/saswatisamal/100daysofcoding/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/saswatisamal/100daysofcoding/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
