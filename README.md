@@ -103,4 +103,12 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/saswatisamal/100daysofcoding/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/saswatisamal/100daysofcoding/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/saswatisamal/100daysofcoding/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
