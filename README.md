@@ -106,6 +106,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saswatisamal/100daysofcoding/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/saswatisamal/100daysofcoding/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
