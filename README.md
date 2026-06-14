@@ -102,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/saswatisamal/100daysofcoding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/saswatisamal/100daysofcoding/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/saswatisamal/100daysofcoding/tree/master/0326-power-of-three) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/saswatisamal/100daysofcoding/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
