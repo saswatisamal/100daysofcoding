@@ -65,12 +65,14 @@
 | [0090-subsets-ii](https://github.com/saswatisamal/100daysofcoding/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/saswatisamal/100daysofcoding/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saswatisamal/100daysofcoding/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saswatisamal/100daysofcoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/saswatisamal/100daysofcoding/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,4 +121,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saswatisamal/100daysofcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saswatisamal/100daysofcoding/tree/master/0125-valid-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/saswatisamal/100daysofcoding/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
